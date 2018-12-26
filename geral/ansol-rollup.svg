@@ -17,7 +17,7 @@
    id="svg873"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="ansol-rollup.svg"
-   inkscape:export-filename="/home/rms/git/ansol-flyerA5-socios/cor/ansol-rollup.png"
+   inkscape:export-filename="/tmp/ansol-rollup.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -63,11 +63,11 @@
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.0875"
-     inkscape:cx="2733.9226"
-     inkscape:cy="4188.7491"
+     inkscape:zoom="1.979899"
+     inkscape:cx="3156.5215"
+     inkscape:cy="7421.758"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -77,33 +77,34 @@
      inkscape:window-height="1010"
      inkscape:window-x="0"
      inkscape:window-y="33"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     inkscape:lockguides="false">
     <sodipodi:guide
        position="2,1892.2682"
        orientation="1,0"
        id="guide875"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="851.99999,2180.9193"
        orientation="1,0"
        id="guide879"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="235.19718,2"
        orientation="0,1"
        id="guide881"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
     <sodipodi:guide
        position="363.48656,2002"
        orientation="0,1"
        id="guide883"
-       inkscape:locked="true"
+       inkscape:locked="false"
        inkscape:label=""
        inkscape:color="rgb(0,0,255)" />
   </sodipodi:namedview>
@@ -125,14 +126,14 @@
      id="layer1"
      transform="translate(0,1707)">
     <rect
-       style="opacity:1;fill:#458fe7;fill-opacity:1;stroke:#458fe7;stroke-width:5.84087753;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect885"
-       width="848.15912"
-       height="1998.1592"
-       x="2.9204388"
-       y="-1704.0796"
-       rx="30792.658"
-       ry="0" />
+       style="opacity:1;fill:#458fe7;fill-opacity:1;stroke:#458fe7;stroke-width:3.38199973;stroke-linejoin:miter;stroke-miterlimit:0.2;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1123"
+       width="850.61804"
+       height="2000.618"
+       x="1.6909999"
+       y="-1705.309"
+       rx="48664.07"
+       ry="0.66950858" />
     <g
        transform="matrix(2.8416065,0,0,-2.8416065,51.907942,-1552.9884)"
        inkscape:label="ink_ext_XXXXXX"
@@ -592,5 +593,13 @@
          style="display:inline;opacity:1;fill:#fffabb;fill-opacity:1;stroke:none"
          transform="scale(-1)" />
     </g>
+    <rect
+       style="opacity:1;fill:#54515f;fill-opacity:1;stroke:#ffffff;stroke-width:1.17399991;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1007"
+       width="0"
+       height="71.393585"
+       x="851.07953"
+       y="-1704.0796"
+       rx="0" />
   </g>
 </svg>
